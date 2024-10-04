@@ -2,11 +2,11 @@
 Read me
 # Computer Systems and Services (Compsys)
 
-Welcome to the CompSysCloud README! This document provides an overview of what CompSysCloud offers, along with useful links and information.
+Welcome to the Compsys README! This document provides an overview of what CompSysCloud offers, along with useful links and information.
 
 ## About Compsys
 
-[CompSysCloud](http://www.compsyscloud.com/) is a cloud computing service provider specializing in innovative solutions tailored to meet the diverse needs of businesses. Our goal is to empower organizations with the tools and resources necessary for efficient operation and growth in a digital landscape.
+[Compsys](http://www.compsyscloud.com/) is a cloud computing service provider specializing in innovative solutions tailored to meet the diverse needs of businesses. Our goal is to empower organizations with the tools and resources necessary for efficient operation and growth in a digital landscape.
 
 ## Services Offered
 
@@ -27,7 +27,7 @@ Compsys provides a range of services, including:
 
 To begin using Compsys services:
 
-1. Visit our website: [CompSysCloud](http://www.compsyscloud.com/)
+1. Visit our website: [Compsys](http://www.compsyscloud.com/)
 2. Sign up for an account.
 3. Explore our offerings and choose the services that best suit your needs.
 
